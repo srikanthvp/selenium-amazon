@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests">
+	<test name="OnePlus_3T" preserve-order="true">
+		<listeners>
+			<listener class-name="com.qa.listeners.TestListener" />
+		</listeners>
+		<parameter name="browserName" value="chrome" />
+		<parameter name="browserVersion" value="81" />
+		<parameter name="headless" value="false" />
+		<parameter name="environment" value="stage" />
+		<classes>
+			<class name="com.qa.tests.LandingPageTests">
+				<methods name="homePage"></methods>
+			</class>
+			<class name="com.qa.tests.SearchResultsTests">
+				<methods name="landingPageSearchTV"></methods>
+			</class>
+		</classes>
+	</test>
+</suite>

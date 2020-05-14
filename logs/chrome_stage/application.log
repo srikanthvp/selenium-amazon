@@ -1,0 +1,12 @@
+[logs/chrome_stage INFO ] 2020-05-15 03:45:08.701 BaseTest:113 - log path: logs/chrome_stage
+[logs/chrome_stage INFO ] 2020-05-15 03:45:08.743 BaseTest:125 - load config-files/staging-config.properties
+[logs/chrome_stage INFO ] 2020-05-15 03:45:08.743 BaseTest:130 - load strings/stage/strings.xml
+[logs/chrome_stage INFO ] 2020-05-15 03:45:13.713 BaseTest:169 - driver initialized: ChromeDriver: chrome on MAC (7018356b037ddee8c1a30d59a21ea019)
+[logs/chrome_stage INFO ] 2020-05-15 03:45:13.724 LandingPageTests:30 - 
+****** starting test:homePage******
+
+[logs/chrome_stage INFO ] 2020-05-15 03:45:14.100 SearchResultsTests:35 - 
+****** starting test:landingPageSearchTV******
+
+[logs/chrome_stage INFO ] 2020-05-15 03:45:17.522 SearchResultsPage:22 - Validating left search pane is displayed
+[logs/chrome_stage INFO ] 2020-05-15 03:45:21.476 ProductInfoPage:20 - Item Title TCL 163.96 cm (65 inches)  AI 4K UHD Certified Android Smart LED TV 65P8 (Black) (2019 Model)

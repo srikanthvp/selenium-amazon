@@ -1,0 +1,5 @@
+11:null:com.qa.MenuPage:isSearchTxtBoxPresent
+11:null:com.qa.MenuPage:isHamburgerIconPresent
+11:null:com.qa.MenuPage:isCheckoutCartIconPresent
+11:null:com.qa.MenuPage:isAmazonIconPresent
+11:null:com.qa.MenuPage:Searching for Item in the search text field
